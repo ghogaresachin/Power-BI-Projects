@@ -1,6 +1,6 @@
-Project Name: Power BI Sales Analysis Dashboard
+## Project Name: Power BI Sales Analysis Dashboard
 
-Description:
+## Description:
 
 This Power BI dashboard provides a comprehensive analysis of sales data from January to June 2023. It offers insights into various aspects of sales performance, including:
 
