@@ -1,49 +1,53 @@
-# Project Name: Power BI Sales Analysis Dashboard
+# Power BI Sales Analysis Dashboard
 
-## Description: 
+## Description
+
 This Power BI dashboard provides a comprehensive analysis of sales data from January to June 2023. It offers insights into various aspects of sales performance, including:
-### Overall Sales Trends: Visualize sales trends over time, identifying peak and low periods.
-### Sales by Store Location: Compare sales performance across different store locations.
-### Sales by Product Category and Type: Analyze the popularity of different product categories and types.
-### Weekday vs. Weekend Sales: Understand the impact of weekdays and weekends on sales.
-### Sales by Day and Hour: Identify the most profitable times of day.
-Data Source:
+
+- **Overall Sales Trends**: Visualize sales trends over time, identifying peak and low periods.
+- **Sales by Store Location**: Compare sales performance across different store locations.
+- **Sales by Product Category and Type**: Analyze the popularity of different product categories and types.
+- **Weekday vs. Weekend Sales**: Understand the impact of weekdays and weekends on sales.
+- **Sales by Day and Hour**: Identify the most profitable times of day.
+
+## Data Source
 
 The dashboard utilizes a dataset containing transaction details for the specified period.
 
-Key Visualizations:
+## Key Visualizations
 
-Calendar Chart: Shows total orders, total sales, total quantity sold, and date.
-Donut Chart: Compares weekend and weekday sales.
-Clustered Bar Chart: Visualizes sales by store location.
-Line Chart: Displays sales trends over time.
-Matrix Chart: Shows sales by day and hour.
-Bar Chart: Presents sales by product category.
-Bar Chart: Depicts sales by coffee type.
-How to Use:
+- **Calendar Chart**: Shows total orders, total sales, total quantity sold, and date.
+- **Donut Chart**: Compares weekend and weekday sales.
+- **Clustered Bar Chart**: Visualizes sales by store location.
+- **Line Chart**: Displays sales trends over time.
+- **Matrix Chart**: Shows sales by day and hour.
+- **Bar Chart**: Presents sales by product category.
+- **Bar Chart**: Depicts sales by coffee type.
 
-Clone the Repository: Clone this repository to your local machine.
-Open Power BI Desktop: Open the Power BI Desktop file within the cloned repository.
-Refresh Data: If necessary, refresh the data source to obtain the latest information.
-Explore Visualizations: Interact with the dashboard's visualizations to gain insights into your sales data.
-Contribution Guidelines:
+## How to Use
 
-Fork this repository to make your own copy.
-Create a new branch for your changes.
-Make your changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request to the main repository.   
-License:
+1. **Clone the Repository**: Clone this repository to your local machine.
+2. **Open Power BI Desktop**: Open the Power BI Desktop file within the cloned repository.
+3. **Refresh Data**: If necessary, refresh the data source to obtain the latest information.
+4. **Explore Visualizations**: Interact with the dashboard's visualizations to gain insights into your sales data.
 
-This project is licensed under the [License Name] license.   
+## Contribution Guidelines
 
-Additional Information:
+1. Fork this repository to make your own copy.
+2. Create a new branch for your changes.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Submit a pull request to the main repository.
 
-Data Cleaning and Preparation: Describe any data cleaning or preparation steps that were performed.
-Data Model: Explain the data model used in the Power BI file, including any relationships between tables.
-Technical Details: Provide technical details about the dashboard, such as the version of Power BI Desktop used and any custom visuals or measures.
-Remember to replace the placeholders with specific information about your project. You can also include screenshots or a short video demonstrating the dashboard's functionality.
+## Additional Information
 
+- **Data Model**: A many-to-one relationship exists between the Coffee Sales Table and the Date Table, with the Date column serving as the common key. This relationship enables analysis of sales trends over time, by day of the week, month, or year.
 
-Sources and related content
+By leveraging this data model, the dashboard can provide valuable insights into:
+
+***Time-Based Trends***: Identify peak sales periods, seasonal variations, and day-of-week effects.
+***Store Performance***: Compare sales performance across different store locations.
+***Product Performance***: Analyze the popularity of different product categories and types.
+***Customer Behavior***: Understand customer preferences and purchasing habits.
+By understanding the underlying data model, users can effectively utilize the dashboard to make informed decisions and drive business growth.
 
