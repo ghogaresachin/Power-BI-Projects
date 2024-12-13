@@ -45,9 +45,9 @@ The dashboard utilizes a dataset containing transaction details for the specifie
 
 By leveraging this data model, the dashboard can provide valuable insights into:
 
-***Time-Based Trends***: Identify peak sales periods, seasonal variations, and day-of-week effects.
-***Store Performance***: Compare sales performance across different store locations.
-***Product Performance***: Analyze the popularity of different product categories and types.
+***Time-Based Trends***: Identify peak sales periods, seasonal variations, and day-of-week effects.<br>
+***Store Performance***: Compare sales performance across different store locations.<br>
+***Product Performance***: Analyze the popularity of different product categories and types.<br>
 ***Customer Behavior***: Understand customer preferences and purchasing habits.
 By understanding the underlying data model, users can effectively utilize the dashboard to make informed decisions and drive business growth.
 
