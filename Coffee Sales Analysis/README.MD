@@ -1,14 +1,12 @@
-## Project Name: Power BI Sales Analysis Dashboard
+# Project Name: Power BI Sales Analysis Dashboard
 
-## Description:
-
+## Description: 
 This Power BI dashboard provides a comprehensive analysis of sales data from January to June 2023. It offers insights into various aspects of sales performance, including:
-
-Overall Sales Trends: Visualize sales trends over time, identifying peak and low periods.
-Sales by Store Location: Compare sales performance across different store locations.
-Sales by Product Category and Type: Analyze the popularity of different product categories and types.
-Weekday vs. Weekend Sales: Understand the impact of weekdays and weekends on sales.
-Sales by Day and Hour: Identify the most profitable times of day.
+### Overall Sales Trends: Visualize sales trends over time, identifying peak and low periods.
+### Sales by Store Location: Compare sales performance across different store locations.
+### Sales by Product Category and Type: Analyze the popularity of different product categories and types.
+### Weekday vs. Weekend Sales: Understand the impact of weekdays and weekends on sales.
+### Sales by Day and Hour: Identify the most profitable times of day.
 Data Source:
 
 The dashboard utilizes a dataset containing transaction details for the specified period.
