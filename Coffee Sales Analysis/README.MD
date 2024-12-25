@@ -51,3 +51,5 @@ By leveraging this data model, the dashboard can provide valuable insights into:
 ***Customer Behavior***: Understand customer preferences and purchasing habits.
 By understanding the underlying data model, users can effectively utilize the dashboard to make informed decisions and drive business growth.
 
+## Dashboard
+![image alt](https://github.com/ghogaresachin/Power-BI-Projects/blob/main/Coffee%20Sales%20Analysis/Screenshot%202024-12-25%20170400.png?raw=true)
